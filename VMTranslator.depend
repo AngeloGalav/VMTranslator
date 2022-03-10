@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1610282411 source:c:\users\asus\documents\school\corso informatica\progetti\vmtranslator\main.c
-	<stdio.h>
-	<stdlib.h>
-	"errorhandle.h"
-
-1610282616 c:\users\asus\documents\school\corso informatica\progetti\vmtranslator\errorhandle.h
-	<string.h>
-
